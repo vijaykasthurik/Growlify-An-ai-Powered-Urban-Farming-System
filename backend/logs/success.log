@@ -1,0 +1,702 @@
+[2026-02-05 11:45:41] [INFO]: 📧 Email transporter initialized with user: gro...
+[2026-02-05 11:45:52] [INFO]: ✅ MongoDB connected successfully
+[2026-02-05 11:45:52] [INFO]: 🌿 Growlify backend running on http://localhost:5002
+[2026-02-05 11:45:52] [INFO]: MongoDB connected successfully
+[2026-02-05 11:52:30] [INFO]: ✅ Email sent successfully to vijaykasthuri777@gmail.com
+[2026-02-05 11:52:30] [INFO]: [OTP] Sent signup OTP to vijaykasthuri777@gmail.com
+[2026-02-05 11:52:56] [INFO]: [SIGNUP] New user registered: vijaykasthuri777@gmail.com
+[2026-02-05 11:53:06] [INFO]: [LOGIN] User logged in: vijaykasthuri777@gmail.com
+[2026-02-05 11:56:10] [INFO]: [GET PLANTS] Retrieved 0 plants for user 69843740323aa7de8be06c17
+[2026-02-05 11:56:10] [INFO]: [GET PLANTS] Retrieved 0 plants for user 69843740323aa7de8be06c17
+[2026-02-05 12:00:00] [INFO]: [NODE-CRON] Running watering reminder at 12:00 (Outdoor)
+[2026-02-05 12:00:00] [INFO]: [NODE-CRON] Running watering reminder job for location: Outdoor
+[2026-02-05 12:00:00] [WARN]: [SKIP] Missing user data for plant "ds" — userId: 697b32d3147afec71a606839
+[2026-02-05 12:00:00] [WARN]: [SKIP] Missing user data for plant "tOMOTO" — userId: 697b36c1015a4f7a38817d8a
+[2026-02-05 12:00:07] [INFO]: ✅ Email sent successfully to prdharanish88@gmail.com
+[2026-02-05 12:00:07] [INFO]: [EMAIL SENT] to prdharanish88@gmail.com for Tomoto
+[2026-02-05 13:37:53] [INFO]: ✅ Quotation request submitted by vijaykasthuri777@gmail.com for Growlify – Smart Irrigation System (Auto Water)
+[2026-02-05 13:38:29] [INFO]: ✅ Admin login successful
+[2026-02-05 14:01:44] [INFO]: ✅ Quotation approved and PDF sent to vijaykasthuri777@gmail.com
+[2026-02-06 09:10:06] [INFO]: 📧 Email transporter initialized with user: gro...
+[2026-02-06 09:10:06] [INFO]: ✅ MongoDB connected successfully
+[2026-02-06 09:10:06] [INFO]: 🌿 Growlify backend running on http://localhost:5002
+[2026-02-06 09:10:06] [INFO]: MongoDB connected successfully
+[2026-02-06 09:14:43] [INFO]: ✅ Email sent successfully to dinnynavis@gmail.com
+[2026-02-06 09:14:43] [INFO]: [OTP] Sent signup OTP to dinnynavis@gmail.com
+[2026-02-06 09:15:52] [INFO]: [SIGNUP] New user registered: dinnynavis@gmail.com
+[2026-02-06 09:16:02] [INFO]: [LOGIN] User logged in: dinnynavis@gmail.com
+[2026-02-06 09:16:11] [INFO]: [GET PLANTS] Retrieved 0 plants for user 698563f0f726d095409972a3
+[2026-02-06 09:16:11] [INFO]: [GET PLANTS] Retrieved 0 plants for user 698563f0f726d095409972a3
+[2026-02-06 09:28:45] [INFO]: ✅ Admin login successful
+[2026-02-06 09:43:19] [INFO]: 📧 Email transporter initialized with user: gro...
+[2026-02-06 09:43:31] [INFO]: ✅ MongoDB connected successfully
+[2026-02-06 09:43:31] [INFO]: 🌿 Growlify backend running on http://localhost:5002
+[2026-02-06 09:43:31] [INFO]: MongoDB connected successfully
+[2026-02-06 09:43:42] [INFO]: [LOGIN] User logged in: dinnynavis@gmail.com
+[2026-02-06 09:48:44] [INFO]: ✅ Quotation request submitted by dinnynavis@gmail.com for Growlify – Smart Irrigation System (Auto Water)
+[2026-02-06 09:49:14] [INFO]: ✅ Admin login successful
+[2026-02-06 09:53:24] [INFO]: [LOGIN] User logged in: dinnynavis@gmail.com
+[2026-02-06 09:57:09] [INFO]: [GET PLANTS] Retrieved 0 plants for user 698563f0f726d095409972a3
+[2026-02-06 09:57:09] [INFO]: [GET PLANTS] Retrieved 0 plants for user 698563f0f726d095409972a3
+[2026-02-06 10:05:08] [INFO]: [GET PLANTS] Retrieved 0 plants for user 698563f0f726d095409972a3
+[2026-02-06 10:05:08] [INFO]: [GET PLANTS] Retrieved 0 plants for user 698563f0f726d095409972a3
+[2026-02-06 10:05:27] [INFO]: [GET PLANTS] Retrieved 0 plants for user 698563f0f726d095409972a3
+[2026-02-06 10:05:27] [INFO]: [GET PLANTS] Retrieved 0 plants for user 698563f0f726d095409972a3
+[2026-02-06 10:05:55] [INFO]: ✅ Admin login successful
+[2026-02-06 10:07:18] [INFO]: ✅ Admin login successful
+[2026-02-06 11:14:12] [INFO]: ❌ Quotation declined for dinnynavis@gmail.com
+[2026-02-06 11:16:28] [INFO]: ✅ Admin login successful
+[2026-02-06 11:16:51] [INFO]: [LOGIN] User logged in: dinnynavis@gmail.com
+[2026-02-06 11:22:12] [INFO]: [LOGIN] User logged in: prdharanish88@gmail.com
+[2026-02-06 11:29:12] [INFO]: ✅ Quotation request submitted by prdharanish88@gmail.com for Growlify Guardian – Smart Garden Protection (Auto Care)
+[2026-02-06 11:31:33] [INFO]: ✅ Quotation request submitted by prdharanish88@gmail.com for Growlify Guardian – Smart Garden Protection (Auto Care)
+[2026-02-06 11:31:47] [INFO]: ✅ Admin login successful
+[2026-02-06 11:36:54] [INFO]: [LOGIN] User logged in: prdharanish88@gmail.com
+[2026-02-06 14:14:11] [INFO]: [GET PLANTS] Retrieved 1 plants for user 697b522f7ab935fa1f6a7372
+[2026-02-06 14:14:11] [INFO]: [GET PLANTS] Retrieved 1 plants for user 697b522f7ab935fa1f6a7372
+[2026-02-08 15:14:01] [INFO]: 📧 Email transporter initialized with user: gro...
+[2026-02-08 15:14:11] [INFO]: ✅ MongoDB connected successfully
+[2026-02-08 15:14:11] [INFO]: 🌿 Growlify backend running on http://localhost:5002
+[2026-02-08 15:14:11] [INFO]: MongoDB connected successfully
+[2026-02-08 15:14:24] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:16:44] [INFO]: 📧 Email transporter initialized with user: gro...
+[2026-02-08 15:16:45] [INFO]: ✅ MongoDB connected successfully
+[2026-02-08 15:16:45] [INFO]: 🌿 Growlify backend running on http://localhost:5002
+[2026-02-08 15:16:45] [INFO]: MongoDB connected successfully
+[2026-02-08 15:16:45] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:18:05] [INFO]: 📧 Email transporter initialized with user: gro...
+[2026-02-08 15:18:05] [INFO]: ✅ MongoDB connected successfully
+[2026-02-08 15:18:05] [INFO]: 🌿 Growlify backend running on http://localhost:5002
+[2026-02-08 15:18:05] [INFO]: MongoDB connected successfully
+[2026-02-08 15:20:45] [INFO]: 📧 Email transporter initialized with user: gro...
+[2026-02-08 15:20:45] [INFO]: ✅ MongoDB connected successfully
+[2026-02-08 15:20:45] [INFO]: 🌿 Growlify backend running on http://localhost:5002
+[2026-02-08 15:20:45] [INFO]: MongoDB connected successfully
+[2026-02-08 15:20:45] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:26:36] [INFO]: 📧 Email transporter initialized with user: gro...
+[2026-02-08 15:26:36] [INFO]: ✅ MongoDB connected successfully
+[2026-02-08 15:26:36] [INFO]: 🌿 Growlify backend running on http://localhost:5002
+[2026-02-08 15:26:36] [INFO]: MongoDB connected successfully
+[2026-02-08 15:28:30] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:30:10] [INFO]: 📧 Email transporter initialized with user: gro...
+[2026-02-08 15:30:10] [INFO]: ✅ MongoDB connected successfully
+[2026-02-08 15:30:10] [INFO]: ✅ Community routes loaded successfully
+[2026-02-08 15:30:10] [INFO]: 🌿 Growlify backend running on http://localhost:5002
+[2026-02-08 15:30:10] [INFO]: MongoDB connected successfully
+[2026-02-08 15:30:30] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:35:24] [INFO]: 📧 Email transporter initialized with user: gro...
+[2026-02-08 15:35:24] [INFO]: ✅ MongoDB connected successfully
+[2026-02-08 15:35:24] [INFO]: ✅ Community routes loaded successfully
+[2026-02-08 15:35:24] [INFO]: 🌿 Growlify backend running on http://localhost:5002
+[2026-02-08 15:35:24] [INFO]: MongoDB connected successfully
+[2026-02-08 15:35:31] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:36:46] [INFO]: 📧 Email transporter initialized with user: gro...
+[2026-02-08 15:36:46] [INFO]: ✅ MongoDB connected successfully
+[2026-02-08 15:36:46] [INFO]: 🌿 Growlify backend running on http://localhost:5002
+[2026-02-08 15:36:46] [INFO]: MongoDB connected successfully
+[2026-02-08 15:36:52] [INFO]: [LOGIN] User logged in: dinnynavis@gmail.com
+[2026-02-08 15:36:56] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:36:56] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:36:56] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:36:56] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:36:56] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:36:56] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:36:59] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:37:00] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:37:00] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:37:01] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:37:01] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:37:01] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:37:01] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:37:01] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:37:02] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:37:02] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:37:26] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:37:56] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:38:13] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:38:13] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:38:14] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:38:14] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:38:26] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:38:56] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:39:26] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:39:32] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:39:32] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:39:32] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:40:18] [INFO]: 📧 Email transporter initialized with user: gro...
+[2026-02-08 15:40:18] [INFO]: ✅ MongoDB connected successfully
+[2026-02-08 15:40:18] [INFO]: 🌿 Growlify backend running on http://localhost:5002
+[2026-02-08 15:40:18] [INFO]: MongoDB connected successfully
+[2026-02-08 15:40:35] [INFO]: [LOGIN] User logged in: dinnynavis@gmail.com
+[2026-02-08 15:40:37] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:40:37] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:40:37] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:40:37] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:40:37] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:40:37] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:43:55] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:44:52] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:45:38] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:47:46] [INFO]: 📧 Email transporter initialized with user: gro...
+[2026-02-08 15:47:46] [INFO]: ✅ MongoDB connected successfully
+[2026-02-08 15:47:46] [INFO]: 🌿 Growlify backend running on http://localhost:5002
+[2026-02-08 15:47:46] [INFO]: MongoDB connected successfully
+[2026-02-08 15:48:05] [INFO]: [LOGIN] User logged in: dinnynavis@gmail.com
+[2026-02-08 15:48:07] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:48:07] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:48:07] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:48:07] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:48:07] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:48:07] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:51:01] [INFO]: 📧 Email transporter initialized with user: gro...
+[2026-02-08 15:51:01] [INFO]: ✅ MongoDB connected successfully
+[2026-02-08 15:51:01] [INFO]: 🌿 Growlify backend running on http://localhost:5002
+[2026-02-08 15:51:01] [INFO]: MongoDB connected successfully
+[2026-02-08 15:51:22] [INFO]: [LOGIN] User logged in: dinnynavis@gmail.com
+[2026-02-08 15:51:24] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:51:24] [ERROR]: ❌ Error: Not authorized, user not found
+[2026-02-08 15:51:25] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:51:25] [ERROR]: ❌ Error: Not authorized, user not found
+[2026-02-08 15:51:25] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:51:25] [ERROR]: ❌ Error: Not authorized, user not found
+[2026-02-08 15:51:25] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:51:25] [ERROR]: ❌ Error: Not authorized, user not found
+[2026-02-08 15:51:25] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:51:25] [ERROR]: ❌ Error: Not authorized, user not found
+[2026-02-08 15:51:25] [WARN]: Auth failed: User not found for token.
+[2026-02-08 15:51:25] [ERROR]: ❌ Error: Not authorized, user not found
+[2026-02-08 15:52:06] [WARN]: Auth failed: No token provided.
+[2026-02-08 15:52:06] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-08 15:52:06] [WARN]: Auth failed: No token provided.
+[2026-02-08 15:52:06] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-08 15:52:06] [WARN]: Auth failed: No token provided.
+[2026-02-08 15:52:06] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-08 15:52:06] [WARN]: Auth failed: No token provided.
+[2026-02-08 15:52:06] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-08 15:52:06] [WARN]: Auth failed: No token provided.
+[2026-02-08 15:52:06] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-08 15:52:06] [WARN]: Auth failed: No token provided.
+[2026-02-08 15:52:06] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-08 15:54:32] [INFO]: 📧 Email transporter initialized with user: gro...
+[2026-02-08 15:54:32] [INFO]: ✅ MongoDB connected successfully
+[2026-02-08 15:54:32] [INFO]: 🌿 Growlify backend running on http://localhost:5002
+[2026-02-08 15:54:32] [INFO]: MongoDB connected successfully
+[2026-02-08 15:54:51] [WARN]: Auth failed: No token provided.
+[2026-02-08 15:54:51] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-08 15:54:51] [WARN]: Auth failed: No token provided.
+[2026-02-08 15:54:51] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-08 15:54:51] [WARN]: Auth failed: No token provided.
+[2026-02-08 15:54:51] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-08 15:54:51] [WARN]: Auth failed: No token provided.
+[2026-02-08 15:54:51] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-08 15:54:51] [WARN]: Auth failed: No token provided.
+[2026-02-08 15:54:51] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-08 15:54:51] [WARN]: Auth failed: No token provided.
+[2026-02-08 15:54:51] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-08 15:55:02] [WARN]: Auth failed: No token provided.
+[2026-02-08 15:55:02] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-08 15:55:02] [WARN]: Auth failed: No token provided.
+[2026-02-08 15:55:02] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-08 15:55:02] [WARN]: Auth failed: No token provided.
+[2026-02-08 15:55:02] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-08 15:55:02] [WARN]: Auth failed: No token provided.
+[2026-02-08 15:55:02] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-08 15:55:02] [WARN]: Auth failed: No token provided.
+[2026-02-08 15:55:02] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-08 15:55:02] [WARN]: Auth failed: No token provided.
+[2026-02-08 15:55:02] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-08 15:57:28] [WARN]: Auth failed: No token provided.
+[2026-02-08 15:57:28] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-08 15:57:28] [WARN]: Auth failed: No token provided.
+[2026-02-08 15:57:28] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-08 15:57:28] [WARN]: Auth failed: No token provided.
+[2026-02-08 15:57:28] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-08 15:57:28] [WARN]: Auth failed: No token provided.
+[2026-02-08 15:57:28] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-08 15:57:28] [WARN]: Auth failed: No token provided.
+[2026-02-08 15:57:28] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-08 15:57:28] [WARN]: Auth failed: No token provided.
+[2026-02-08 15:57:28] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-08 15:58:41] [INFO]: [LOGIN] User logged in: dinnynavis@gmail.com
+[2026-02-08 16:00:11] [INFO]: [LOGIN] User logged in: prdharanish88@gmail.com
+[2026-02-08 16:18:41] [INFO]: [GET PLANTS] Retrieved 1 plants for user 697b522f7ab935fa1f6a7372
+[2026-02-08 16:18:41] [INFO]: [GET PLANTS] Retrieved 1 plants for user 697b522f7ab935fa1f6a7372
+[2026-02-08 16:18:50] [INFO]: [LOGIN] User logged in: prdharanish88@gmail.com
+[2026-02-08 16:19:52] [INFO]: [LOGIN] User logged in: dinnynavis@gmail.com
+[2026-02-08 16:21:05] [ERROR]: ❌ Error: request entity too large
+[2026-02-08 16:22:42] [INFO]: [LOGIN] User logged in: prdharanish88@gmail.com
+[2026-02-08 16:23:35] [INFO]: [LOGIN] User logged in: dinnynavis@gmail.com
+[2026-02-08 16:57:26] [INFO]: 📧 Email transporter initialized with user: gro...
+[2026-02-08 16:57:36] [INFO]: ✅ MongoDB connected successfully
+[2026-02-08 16:57:38] [INFO]: 🌿 Growlify backend running on http://localhost:5002
+[2026-02-08 16:57:38] [INFO]: MongoDB connected successfully
+[2026-02-08 17:02:18] [INFO]: 📧 Email transporter initialized with user: gro...
+[2026-02-08 17:02:19] [INFO]: ✅ MongoDB connected successfully
+[2026-02-08 17:02:19] [INFO]: 🌿 Growlify backend running on http://localhost:5002
+[2026-02-08 17:02:19] [INFO]: MongoDB connected successfully
+[2026-02-08 17:25:09] [INFO]: 📧 Email transporter initialized with user: gro...
+[2026-02-08 17:25:09] [INFO]: ✅ MongoDB connected successfully
+[2026-02-08 17:25:09] [INFO]: 🌿 Growlify backend running on http://localhost:5002
+[2026-02-08 17:25:09] [INFO]: MongoDB connected successfully
+[2026-02-08 17:27:30] [INFO]: [GET PLANTS] Retrieved 0 plants for user 698563f0f726d095409972a3
+[2026-02-08 17:27:30] [INFO]: [GET PLANTS] Retrieved 0 plants for user 698563f0f726d095409972a3
+[2026-02-08 17:27:45] [INFO]: [LOGIN] User logged in: prdharanish88@gmail.com
+[2026-02-09 13:01:06] [INFO]: 📧 Email transporter initialized with user: gro...
+[2026-02-09 13:01:07] [INFO]: ✅ MongoDB connected successfully
+[2026-02-09 13:01:07] [INFO]: 🌿 Growlify backend running on http://localhost:5002
+[2026-02-09 13:01:07] [INFO]: MongoDB connected successfully
+[2026-02-09 13:02:33] [WARN]: Auth failed: No token provided.
+[2026-02-09 13:02:33] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 13:02:33] [WARN]: Auth failed: No token provided.
+[2026-02-09 13:02:33] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 13:02:33] [WARN]: Auth failed: No token provided.
+[2026-02-09 13:02:33] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 13:02:33] [WARN]: Auth failed: No token provided.
+[2026-02-09 13:02:33] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 13:02:33] [WARN]: Auth failed: No token provided.
+[2026-02-09 13:02:33] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 13:02:33] [WARN]: Auth failed: No token provided.
+[2026-02-09 13:02:33] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 13:03:22] [INFO]: ✅ Email sent successfully to sakthij23cs@psnacet.edu.in
+[2026-02-09 13:03:22] [INFO]: [OTP] Sent signup OTP to sakthij23cs@psnacet.edu.in
+[2026-02-09 13:03:50] [INFO]: [SIGNUP] New user registered: sakthij23cs@psnacet.edu.in
+[2026-02-09 13:04:02] [INFO]: [LOGIN] User logged in: sakthij23cs@psnacet.edu.in
+[2026-02-09 13:04:49] [INFO]: Reward redemption request: Starter Succulent Seeds for sakthij23cs@psnacet.edu.in (300 points)
+[2026-02-09 13:04:56] [INFO]: ✅ Email sent successfully to sakthij23cs@psnacet.edu.in
+[2026-02-09 13:04:56] [INFO]: ✅ Reward redemption email sent to sakthij23cs@psnacet.edu.in
+[2026-02-09 13:06:03] [INFO]: ✅ Quotation request submitted by sakthij23cs@psnacet.edu.in for Growlify – Smart Irrigation System (Auto Water)
+[2026-02-09 13:07:18] [INFO]: [GET PLANTS] Retrieved 0 plants for user 69898dded112f1e53b5bd543
+[2026-02-09 13:07:18] [INFO]: [GET PLANTS] Retrieved 0 plants for user 69898dded112f1e53b5bd543
+[2026-02-09 13:07:48] [INFO]: [ADD PLANT] New plant added for user 69898dded112f1e53b5bd543: 69898ecbd112f1e53b5bd572
+[2026-02-09 13:07:48] [INFO]: [GET PLANTS] Retrieved 1 plants for user 69898dded112f1e53b5bd543
+[2026-02-09 13:08:30] [INFO]: 📧 Email transporter initialized with user: gro...
+[2026-02-09 13:08:31] [INFO]: ✅ MongoDB connected successfully
+[2026-02-09 13:08:31] [INFO]: 🌿 Growlify backend running on http://localhost:5002
+[2026-02-09 13:08:31] [INFO]: MongoDB connected successfully
+[2026-02-09 13:09:00] [INFO]: [NODE-CRON] Running watering reminder at 08:00 (Indoor)
+[2026-02-09 13:09:00] [INFO]: [NODE-CRON] Running watering reminder job for location: Indoor
+[2026-02-09 13:09:00] [WARN]: [SKIP] Missing user data for plant "Starwbeery" — userId: 690dddc12291f1d8d92a9074
+[2026-02-09 13:09:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 690e5e6506744a2fa35745ca
+[2026-02-09 13:09:00] [WARN]: [SKIP] Missing user data for plant "scca" — userId: 690eb16352fd04216b1bbbe4
+[2026-02-09 13:09:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 690eb35fdebe773ab5a54b86
+[2026-02-09 13:09:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 690ed4f80006838d4ecdc47d
+[2026-02-09 13:09:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 690ef3242a309bc3bb0dcced
+[2026-02-09 13:09:00] [WARN]: [SKIP] Missing user data for plant "Strawberry" — userId: 696f2e408675950142a89c8c
+[2026-02-09 13:09:00] [WARN]: [SKIP] Missing user data for plant "Strawberry" — userId: 696f30479cf3dc920f29557f
+[2026-02-09 13:09:08] [INFO]: ✅ Email sent successfully to prdharanish88@gmail.com
+[2026-02-09 13:09:08] [INFO]: [EMAIL SENT] to prdharanish88@gmail.com for tt
+[2026-02-09 13:09:15] [INFO]: ✅ Email sent successfully to dinnynavis@gmail.com
+[2026-02-09 13:09:15] [INFO]: [EMAIL SENT] to dinnynavis@gmail.com for Tomoto
+[2026-02-09 13:09:23] [INFO]: ✅ Email sent successfully to dinnypaul007@gmail.com
+[2026-02-09 13:09:23] [INFO]: [EMAIL SENT] to dinnypaul007@gmail.com for Tomato
+[2026-02-09 13:09:31] [INFO]: ✅ Email sent successfully to sakthij23cs@psnacet.edu.in
+[2026-02-09 13:09:31] [INFO]: [EMAIL SENT] to sakthij23cs@psnacet.edu.in for tomoto
+[2026-02-09 13:09:40] [INFO]: ✅ Email sent successfully to sakthij23cs@psnacet.edu.in
+[2026-02-09 13:09:40] [INFO]: [DIAGNOSIS EMAIL] Sent to sakthij23cs@psnacet.edu.in
+[2026-02-09 13:10:27] [INFO]: [GET PLANTS] Retrieved 1 plants for user 69898dded112f1e53b5bd543
+[2026-02-09 13:10:27] [INFO]: [GET PLANTS] Retrieved 1 plants for user 69898dded112f1e53b5bd543
+[2026-02-09 13:10:56] [INFO]: ✅ Admin login successful
+[2026-02-09 13:11:53] [INFO]: ✅ Quotation approved and PDF sent to sakthij23cs@psnacet.edu.in
+[2026-02-09 19:05:27] [INFO]: 📧 Email transporter initialized with user: gro...
+[2026-02-09 19:05:28] [INFO]: ✅ MongoDB connected successfully
+[2026-02-09 19:05:28] [INFO]: 🌿 Growlify backend running on http://localhost:5002
+[2026-02-09 19:05:28] [INFO]: MongoDB connected successfully
+[2026-02-09 19:10:27] [INFO]: ✅ Email sent successfully to vijaykasthurik@gmail.com
+[2026-02-09 19:10:27] [INFO]: [OTP] Sent signup OTP to vijaykasthurik@gmail.com
+[2026-02-09 19:12:33] [INFO]: [SIGNUP] New user registered: vijaykasthurik@gmail.com
+[2026-02-09 19:13:04] [INFO]: [LOGIN] User logged in: vijaykasthurik@gmail.com
+[2026-02-09 19:14:13] [INFO]: [GET PLANTS] Retrieved 0 plants for user 6989e449c469b35acef14823
+[2026-02-09 19:14:13] [INFO]: [GET PLANTS] Retrieved 0 plants for user 6989e449c469b35acef14823
+[2026-02-09 19:16:05] [INFO]: [ADD PLANT] New plant added for user 6989e449c469b35acef14823: 6989e51dc469b35acef1483c
+[2026-02-09 19:16:05] [INFO]: [GET PLANTS] Retrieved 1 plants for user 6989e449c469b35acef14823
+[2026-02-09 19:16:49] [INFO]: 📧 Email transporter initialized with user: gro...
+[2026-02-09 19:16:49] [INFO]: ✅ MongoDB connected successfully
+[2026-02-09 19:16:49] [INFO]: 🌿 Growlify backend running on http://localhost:5002
+[2026-02-09 19:16:49] [INFO]: MongoDB connected successfully
+[2026-02-09 19:17:00] [INFO]: [NODE-CRON] Running watering reminder at 08:00 (Indoor)
+[2026-02-09 19:17:00] [INFO]: [NODE-CRON] Running watering reminder job for location: Indoor
+[2026-02-09 19:17:00] [WARN]: [SKIP] Missing user data for plant "Starwbeery" — userId: 690dddc12291f1d8d92a9074
+[2026-02-09 19:17:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 690e5e6506744a2fa35745ca
+[2026-02-09 19:17:00] [WARN]: [SKIP] Missing user data for plant "scca" — userId: 690eb16352fd04216b1bbbe4
+[2026-02-09 19:17:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 690eb35fdebe773ab5a54b86
+[2026-02-09 19:17:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 690ed4f80006838d4ecdc47d
+[2026-02-09 19:17:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 690ef3242a309bc3bb0dcced
+[2026-02-09 19:17:00] [WARN]: [SKIP] Missing user data for plant "Strawberry" — userId: 696f2e408675950142a89c8c
+[2026-02-09 19:17:00] [WARN]: [SKIP] Missing user data for plant "Strawberry" — userId: 696f30479cf3dc920f29557f
+[2026-02-09 19:17:00] [WARN]: [SKIP] Missing user data for plant "tt" — userId: 697c04139deffb527b6e9f8a
+[2026-02-09 19:17:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 697c335a8b6f07d313c38fb0
+[2026-02-09 19:17:00] [WARN]: [SKIP] Missing user data for plant "Tomato" — userId: 697c62ebec310dcf34ab42e1
+[2026-02-09 19:17:00] [WARN]: [SKIP] Missing user data for plant "tomoto" — userId: 69898dded112f1e53b5bd543
+[2026-02-09 19:17:07] [INFO]: ✅ Email sent successfully to vijaykasthurik@gmail.com
+[2026-02-09 19:17:07] [INFO]: [EMAIL SENT] to vijaykasthurik@gmail.com for Tomoto
+[2026-02-09 19:17:23] [INFO]: Reward redemption request: Starter Succulent Seeds for vijaykasthurik@gmail.com (300 points)
+[2026-02-09 19:17:29] [INFO]: ✅ Email sent successfully to vijaykasthurik@gmail.com
+[2026-02-09 19:17:29] [INFO]: ✅ Reward redemption email sent to vijaykasthurik@gmail.com
+[2026-02-09 19:25:00] [INFO]: ✅ Quotation request submitted by vijaykasthurik@gmail.com for Growlify Guardian – Smart Garden Protection (Auto Care)
+[2026-02-09 19:25:09] [INFO]: [GET PLANTS] Retrieved 1 plants for user 6989e449c469b35acef14823
+[2026-02-09 19:25:09] [INFO]: [GET PLANTS] Retrieved 1 plants for user 6989e449c469b35acef14823
+[2026-02-09 19:26:07] [INFO]: ✅ Email sent successfully to vijaykasthurik@gmail.com
+[2026-02-09 19:26:07] [INFO]: [DIAGNOSIS EMAIL] Sent to vijaykasthurik@gmail.com
+[2026-02-09 19:27:23] [INFO]: ✅ Admin login successful
+[2026-02-09 19:27:57] [INFO]: ✅ Quotation approved and PDF sent to vijaykasthurik@gmail.com
+[2026-02-09 22:05:13] [INFO]: 📧 Email transporter initialized with user: gro...
+[2026-02-09 22:05:13] [INFO]: ✅ MongoDB connected successfully
+[2026-02-09 22:05:13] [INFO]: 🌿 Growlify backend running on http://localhost:5002
+[2026-02-09 22:05:13] [INFO]: MongoDB connected successfully
+[2026-02-09 22:05:57] [INFO]: [LOGIN] User logged in: vijaykasthurik@gmail.com
+[2026-02-09 22:06:04] [INFO]: [GET PLANTS] Retrieved 1 plants for user 6989e449c469b35acef14823
+[2026-02-09 22:06:04] [INFO]: [GET PLANTS] Retrieved 1 plants for user 6989e449c469b35acef14823
+[2026-02-09 22:16:08] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:16:08] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:16:08] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:16:08] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:16:08] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:16:08] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:16:08] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:16:08] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:16:08] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:16:08] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:16:08] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:16:08] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:19:01] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:19:01] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:19:01] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:19:01] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:19:01] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:19:01] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:19:01] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:19:01] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:19:01] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:19:01] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:19:01] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:19:01] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:19:06] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:19:06] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:19:06] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:19:06] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:19:06] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:19:06] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:19:06] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:19:06] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:19:06] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:19:06] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:19:06] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:19:06] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:19:09] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:19:09] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:19:09] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:19:09] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:19:09] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:19:09] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:19:09] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:19:09] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:19:09] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:19:09] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:19:09] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:19:09] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:21:49] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:21:49] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:21:49] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:21:49] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:21:49] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:21:49] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:21:49] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:21:49] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:21:49] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:21:49] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:21:49] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:21:49] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:24:32] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:24:32] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:24:32] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:24:32] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:24:32] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:24:32] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:24:32] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:24:32] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:24:32] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:24:32] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:24:32] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:24:32] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:24:41] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:24:41] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:24:41] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:24:41] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:24:41] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:24:41] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:24:41] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:24:41] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:24:41] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:24:41] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:24:41] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:24:41] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:24:54] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:24:54] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:24:54] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:24:54] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:24:54] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:24:54] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:24:54] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:24:54] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:24:54] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:24:54] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-09 22:24:54] [WARN]: Auth failed: No token provided.
+[2026-02-09 22:24:54] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-11 11:11:05] [INFO]: 📧 Email transporter initialized with user: gro...
+[2026-02-11 11:11:05] [INFO]: ✅ MongoDB connected successfully
+[2026-02-11 11:11:05] [INFO]: 🌿 Growlify backend running on http://localhost:5002
+[2026-02-11 11:11:05] [INFO]: MongoDB connected successfully
+[2026-02-11 11:23:57] [INFO]: ✅ Email sent successfully to vijaykasthurik@gmail.com
+[2026-02-11 11:23:57] [INFO]: [OTP] Sent signup OTP to vijaykasthurik@gmail.com
+[2026-02-11 11:24:25] [INFO]: [SIGNUP] New user registered: vijaykasthurik@gmail.com
+[2026-02-11 11:24:32] [INFO]: [LOGIN] User logged in: vijaykasthurik@gmail.com
+[2026-02-11 11:25:08] [INFO]: [GET PLANTS] Retrieved 0 plants for user 698c19919ae3a2e4959cf0bf
+[2026-02-11 11:25:08] [INFO]: [GET PLANTS] Retrieved 0 plants for user 698c19919ae3a2e4959cf0bf
+[2026-02-11 11:25:53] [INFO]: ✅ Email sent successfully to vijaykasthurik@gmail.com
+[2026-02-11 11:25:53] [INFO]: [DIAGNOSIS EMAIL] Sent to vijaykasthurik@gmail.com
+[2026-02-11 11:26:23] [INFO]: [GET PLANTS] Retrieved 0 plants for user 698c19919ae3a2e4959cf0bf
+[2026-02-11 11:26:23] [INFO]: [GET PLANTS] Retrieved 0 plants for user 698c19919ae3a2e4959cf0bf
+[2026-02-11 11:27:19] [WARN]: Auth failed: No token provided.
+[2026-02-11 11:27:19] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-11 11:27:19] [WARN]: Auth failed: No token provided.
+[2026-02-11 11:27:19] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-11 11:27:19] [WARN]: Auth failed: No token provided.
+[2026-02-11 11:27:19] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-11 11:27:19] [WARN]: Auth failed: No token provided.
+[2026-02-11 11:27:19] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-11 11:27:19] [WARN]: Auth failed: No token provided.
+[2026-02-11 11:27:19] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-11 11:27:19] [WARN]: Auth failed: No token provided.
+[2026-02-11 11:27:19] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-11 13:28:13] [INFO]: 📧 Email transporter initialized with user: gro...
+[2026-02-11 13:28:13] [INFO]: ✅ MongoDB connected successfully
+[2026-02-11 13:28:13] [INFO]: 🌿 Growlify backend running on http://localhost:5002
+[2026-02-11 13:28:13] [INFO]: MongoDB connected successfully
+[2026-02-11 14:54:05] [INFO]: ✅ Email sent successfully to dinnynavis@gmail.com
+[2026-02-11 14:54:05] [INFO]: [OTP] Sent signup OTP to dinnynavis@gmail.com
+[2026-02-11 14:54:25] [INFO]: [SIGNUP] New user registered: dinnynavis@gmail.com
+[2026-02-11 14:54:30] [INFO]: [LOGIN] User logged in: dinnynavis@gmail.com
+[2026-02-11 14:54:33] [INFO]: [GET PLANTS] Retrieved 0 plants for user 698c4ac9b1de1167c549e8b4
+[2026-02-11 14:54:33] [INFO]: [GET PLANTS] Retrieved 0 plants for user 698c4ac9b1de1167c549e8b4
+[2026-02-11 14:55:56] [INFO]: [ADD PLANT] New plant added for user 698c4ac9b1de1167c549e8b4: 698c4b24b1de1167c549e8bc
+[2026-02-11 14:55:56] [INFO]: [GET PLANTS] Retrieved 1 plants for user 698c4ac9b1de1167c549e8b4
+[2026-02-11 14:56:27] [INFO]: 📧 Email transporter initialized with user: gro...
+[2026-02-11 14:56:27] [INFO]: ✅ MongoDB connected successfully
+[2026-02-11 14:56:28] [INFO]: 🌿 Growlify backend running on http://localhost:5002
+[2026-02-11 14:56:28] [INFO]: MongoDB connected successfully
+[2026-02-11 14:57:00] [INFO]: [NODE-CRON] Running watering reminder at 08:00 (Indoor)
+[2026-02-11 14:57:00] [INFO]: [NODE-CRON] Running watering reminder job for location: Indoor
+[2026-02-11 14:57:00] [WARN]: [SKIP] Missing user data for plant "Starwbeery" — userId: 690dddc12291f1d8d92a9074
+[2026-02-11 14:57:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 690e5e6506744a2fa35745ca
+[2026-02-11 14:57:00] [WARN]: [SKIP] Missing user data for plant "scca" — userId: 690eb16352fd04216b1bbbe4
+[2026-02-11 14:57:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 690eb35fdebe773ab5a54b86
+[2026-02-11 14:57:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 690ed4f80006838d4ecdc47d
+[2026-02-11 14:57:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 690ef3242a309bc3bb0dcced
+[2026-02-11 14:57:00] [WARN]: [SKIP] Missing user data for plant "Strawberry" — userId: 696f2e408675950142a89c8c
+[2026-02-11 14:57:00] [WARN]: [SKIP] Missing user data for plant "Strawberry" — userId: 696f30479cf3dc920f29557f
+[2026-02-11 14:57:00] [WARN]: [SKIP] Missing user data for plant "tt" — userId: 697c04139deffb527b6e9f8a
+[2026-02-11 14:57:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 697c335a8b6f07d313c38fb0
+[2026-02-11 14:57:00] [WARN]: [SKIP] Missing user data for plant "Tomato" — userId: 697c62ebec310dcf34ab42e1
+[2026-02-11 14:57:00] [WARN]: [SKIP] Missing user data for plant "tomoto" — userId: 69898dded112f1e53b5bd543
+[2026-02-11 14:57:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 6989e449c469b35acef14823
+[2026-02-11 14:57:07] [INFO]: ✅ Email sent successfully to dinnynavis@gmail.com
+[2026-02-11 14:57:07] [INFO]: [EMAIL SENT] to dinnynavis@gmail.com for Tomoto
+[2026-02-11 14:59:54] [INFO]: ✅ Email sent successfully to dinnynavis@gmail.com
+[2026-02-11 14:59:54] [INFO]: [DIAGNOSIS EMAIL] Sent to dinnynavis@gmail.com
+[2026-02-11 15:01:35] [INFO]: ✅ Quotation request submitted by dinnynavis@gmail.com for Growlify Guardian – Smart Garden Protection (Auto Care)
+[2026-02-11 15:02:08] [INFO]: Reward redemption request: Starter Succulent Seeds for dinnynavis@gmail.com (300 points)
+[2026-02-11 15:02:15] [INFO]: ✅ Email sent successfully to dinnynavis@gmail.com
+[2026-02-11 15:02:15] [INFO]: ✅ Reward redemption email sent to dinnynavis@gmail.com
+[2026-02-11 15:02:45] [INFO]: ✅ Admin login successful
+[2026-02-11 15:03:31] [INFO]: ✅ Quotation approved and PDF sent to dinnynavis@gmail.com
+[2026-02-12 12:00:00] [INFO]: [NODE-CRON] Running watering reminder at 12:00 (Outdoor)
+[2026-02-12 12:00:00] [INFO]: [NODE-CRON] Running watering reminder job for location: Outdoor
+[2026-02-12 14:57:00] [INFO]: [NODE-CRON] Running watering reminder at 08:00 (Indoor)
+[2026-02-12 14:57:00] [INFO]: [NODE-CRON] Running watering reminder job for location: Indoor
+[2026-02-12 14:57:00] [WARN]: [SKIP] Missing user data for plant "Starwbeery" — userId: 690dddc12291f1d8d92a9074
+[2026-02-12 14:57:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 690e5e6506744a2fa35745ca
+[2026-02-12 14:57:00] [WARN]: [SKIP] Missing user data for plant "scca" — userId: 690eb16352fd04216b1bbbe4
+[2026-02-12 14:57:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 690eb35fdebe773ab5a54b86
+[2026-02-12 14:57:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 690ed4f80006838d4ecdc47d
+[2026-02-12 14:57:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 690ef3242a309bc3bb0dcced
+[2026-02-12 14:57:00] [WARN]: [SKIP] Missing user data for plant "Strawberry" — userId: 696f2e408675950142a89c8c
+[2026-02-12 14:57:00] [WARN]: [SKIP] Missing user data for plant "Strawberry" — userId: 696f30479cf3dc920f29557f
+[2026-02-12 14:57:00] [WARN]: [SKIP] Missing user data for plant "tt" — userId: 697c04139deffb527b6e9f8a
+[2026-02-12 14:57:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 697c335a8b6f07d313c38fb0
+[2026-02-12 14:57:00] [WARN]: [SKIP] Missing user data for plant "Tomato" — userId: 697c62ebec310dcf34ab42e1
+[2026-02-12 14:57:00] [WARN]: [SKIP] Missing user data for plant "tomoto" — userId: 69898dded112f1e53b5bd543
+[2026-02-12 14:57:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 6989e449c469b35acef14823
+[2026-02-12 14:57:07] [INFO]: ✅ Email sent successfully to dinnynavis@gmail.com
+[2026-02-12 14:57:07] [INFO]: [EMAIL SENT] to dinnynavis@gmail.com for Tomoto
+[2026-02-12 19:13:45] [INFO]: 📧 Email transporter initialized with user: gro...
+[2026-02-12 19:13:45] [INFO]: ✅ MongoDB connected successfully
+[2026-02-12 19:13:45] [INFO]: 🌿 Growlify backend running on http://localhost:5002
+[2026-02-12 19:13:45] [INFO]: MongoDB connected successfully
+[2026-02-12 19:21:07] [INFO]: ✅ Email sent successfully to sakthijawahar2005@gmail.com
+[2026-02-12 19:21:07] [INFO]: [OTP] Sent signup OTP to sakthijawahar2005@gmail.com
+[2026-02-12 19:21:27] [INFO]: [SIGNUP] New user registered: sakthijawahar2005@gmail.com
+[2026-02-12 19:21:34] [INFO]: [LOGIN] User logged in: sakthijawahar2005@gmail.com
+[2026-02-12 19:21:40] [INFO]: [GET PLANTS] Retrieved 0 plants for user 698ddadf4be6ef6763bf3a88
+[2026-02-12 19:21:40] [INFO]: [GET PLANTS] Retrieved 0 plants for user 698ddadf4be6ef6763bf3a88
+[2026-02-12 19:22:05] [INFO]: [ADD PLANT] New plant added for user 698ddadf4be6ef6763bf3a88: 698ddb054be6ef6763bf3a90
+[2026-02-12 19:22:05] [INFO]: [GET PLANTS] Retrieved 1 plants for user 698ddadf4be6ef6763bf3a88
+[2026-02-12 19:22:28] [INFO]: 📧 Email transporter initialized with user: gro...
+[2026-02-12 19:22:29] [INFO]: ✅ MongoDB connected successfully
+[2026-02-12 19:22:29] [INFO]: 🌿 Growlify backend running on http://localhost:5002
+[2026-02-12 19:22:29] [INFO]: MongoDB connected successfully
+[2026-02-12 19:23:00] [INFO]: [NODE-CRON] Running watering reminder at 08:00 (Indoor)
+[2026-02-12 19:23:00] [INFO]: [NODE-CRON] Running watering reminder job for location: Indoor
+[2026-02-12 19:23:00] [WARN]: [SKIP] Missing user data for plant "Starwbeery" — userId: 690dddc12291f1d8d92a9074
+[2026-02-12 19:23:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 690e5e6506744a2fa35745ca
+[2026-02-12 19:23:00] [WARN]: [SKIP] Missing user data for plant "scca" — userId: 690eb16352fd04216b1bbbe4
+[2026-02-12 19:23:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 690eb35fdebe773ab5a54b86
+[2026-02-12 19:23:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 690ed4f80006838d4ecdc47d
+[2026-02-12 19:23:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 690ef3242a309bc3bb0dcced
+[2026-02-12 19:23:00] [WARN]: [SKIP] Missing user data for plant "Strawberry" — userId: 696f2e408675950142a89c8c
+[2026-02-12 19:23:00] [WARN]: [SKIP] Missing user data for plant "Strawberry" — userId: 696f30479cf3dc920f29557f
+[2026-02-12 19:23:00] [WARN]: [SKIP] Missing user data for plant "tt" — userId: 697c04139deffb527b6e9f8a
+[2026-02-12 19:23:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 697c335a8b6f07d313c38fb0
+[2026-02-12 19:23:00] [WARN]: [SKIP] Missing user data for plant "Tomato" — userId: 697c62ebec310dcf34ab42e1
+[2026-02-12 19:23:00] [WARN]: [SKIP] Missing user data for plant "tomoto" — userId: 69898dded112f1e53b5bd543
+[2026-02-12 19:23:00] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 6989e449c469b35acef14823
+[2026-02-12 19:23:07] [INFO]: ✅ Email sent successfully to dinnynavis@gmail.com
+[2026-02-12 19:23:07] [INFO]: [EMAIL SENT] to dinnynavis@gmail.com for Tomoto
+[2026-02-12 19:23:11] [INFO]: ✅ Email sent successfully to sakthijawahar2005@gmail.com
+[2026-02-12 19:23:11] [INFO]: [DIAGNOSIS EMAIL] Sent to sakthijawahar2005@gmail.com
+[2026-02-12 19:23:14] [INFO]: ✅ Email sent successfully to sakthijawahar2005@gmail.com
+[2026-02-12 19:23:14] [INFO]: [EMAIL SENT] to sakthijawahar2005@gmail.com for Tomoto
+[2026-02-12 19:23:55] [INFO]: ✅ Email sent successfully to sakthijawahar2005@gmail.com
+[2026-02-12 19:23:55] [INFO]: [DIAGNOSIS EMAIL] Sent to sakthijawahar2005@gmail.com
+[2026-02-12 19:25:10] [INFO]: ✅ Quotation request submitted by sakthijawahar2005@gmail.com for Growlify Guardian – Smart Garden Protection (Auto Care)
+[2026-02-12 19:26:36] [INFO]: Reward redemption request: Starter Succulent Seeds for sakthijawahar2005@gmail.com (300 points)
+[2026-02-12 19:26:43] [INFO]: ✅ Email sent successfully to sakthijawahar2005@gmail.com
+[2026-02-12 19:26:43] [INFO]: ✅ Reward redemption email sent to sakthijawahar2005@gmail.com
+[2026-02-12 19:27:08] [INFO]: ✅ Admin login successful
+[2026-02-12 19:27:40] [INFO]: ✅ Quotation approved and PDF sent to sakthijawahar2005@gmail.com
+[2026-02-13 12:23:13] [INFO]: 📧 Email transporter initialized with user: gro...
+[2026-02-13 12:23:13] [INFO]: ✅ MongoDB connected successfully
+[2026-02-13 12:23:13] [INFO]: 🌿 Growlify backend running on http://localhost:5002
+[2026-02-13 12:23:14] [INFO]: MongoDB connected successfully
+[2026-02-17 10:18:50] [INFO]: 📧 Email transporter initialized with user: gro...
+[2026-02-17 10:18:51] [INFO]: ✅ MongoDB connected successfully
+[2026-02-17 10:18:51] [INFO]: 🌿 Growlify backend running on http://localhost:5002
+[2026-02-17 10:18:51] [INFO]: MongoDB connected successfully
+[2026-02-17 10:23:34] [INFO]: [LOGIN] User logged in: dinnynavis@gmail.com
+[2026-02-17 10:23:37] [INFO]: [GET PLANTS] Retrieved 1 plants for user 698c4ac9b1de1167c549e8b4
+[2026-02-17 10:23:37] [INFO]: [GET PLANTS] Retrieved 1 plants for user 698c4ac9b1de1167c549e8b4
+[2026-02-17 10:23:42] [INFO]: [DELETE PLANT] Plant 698c4b24b1de1167c549e8bc deleted for user 698c4ac9b1de1167c549e8b4
+[2026-02-17 10:23:43] [INFO]: [GET PLANTS] Retrieved 0 plants for user 698c4ac9b1de1167c549e8b4
+[2026-02-17 10:23:59] [INFO]: [GET PLANTS] Retrieved 0 plants for user 698c4ac9b1de1167c549e8b4
+[2026-02-17 10:23:59] [INFO]: [GET PLANTS] Retrieved 0 plants for user 698c4ac9b1de1167c549e8b4
+[2026-02-17 10:25:13] [INFO]: ✅ Email sent successfully to dinnynavis@gmail.com
+[2026-02-17 10:25:13] [INFO]: [DIAGNOSIS EMAIL] Sent to dinnynavis@gmail.com
+[2026-02-17 11:00:00] [INFO]: [LOGIN] User logged in: dinnynavis@gmail.com
+[2026-02-17 11:00:02] [INFO]: [GET PLANTS] Retrieved 0 plants for user 698c4ac9b1de1167c549e8b4
+[2026-02-17 11:00:02] [INFO]: [GET PLANTS] Retrieved 0 plants for user 698c4ac9b1de1167c549e8b4
+[2026-02-17 11:00:42] [INFO]: [ADD PLANT] New plant added for user 698c4ac9b1de1167c549e8b4: 6993fd02d78e54d05612e2b1
+[2026-02-17 11:00:42] [INFO]: [GET PLANTS] Retrieved 1 plants for user 698c4ac9b1de1167c549e8b4
+[2026-02-17 11:01:10] [INFO]: 📧 Email transporter initialized with user: gro...
+[2026-02-17 11:01:11] [INFO]: ✅ MongoDB connected successfully
+[2026-02-17 11:01:11] [INFO]: 🌿 Growlify backend running on http://localhost:5002
+[2026-02-17 11:01:11] [INFO]: MongoDB connected successfully
+[2026-02-17 11:02:00] [INFO]: [NODE-CRON] Running watering reminder at 08:00 (Indoor)
+[2026-02-17 11:02:00] [INFO]: [NODE-CRON] Running watering reminder job for location: Indoor
+[2026-02-17 11:02:01] [WARN]: [SKIP] Missing user data for plant "Starwbeery" — userId: 690dddc12291f1d8d92a9074
+[2026-02-17 11:02:01] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 690e5e6506744a2fa35745ca
+[2026-02-17 11:02:01] [WARN]: [SKIP] Missing user data for plant "scca" — userId: 690eb16352fd04216b1bbbe4
+[2026-02-17 11:02:01] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 690eb35fdebe773ab5a54b86
+[2026-02-17 11:02:01] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 690ed4f80006838d4ecdc47d
+[2026-02-17 11:02:01] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 690ef3242a309bc3bb0dcced
+[2026-02-17 11:02:01] [WARN]: [SKIP] Missing user data for plant "Strawberry" — userId: 696f2e408675950142a89c8c
+[2026-02-17 11:02:01] [WARN]: [SKIP] Missing user data for plant "Strawberry" — userId: 696f30479cf3dc920f29557f
+[2026-02-17 11:02:01] [WARN]: [SKIP] Missing user data for plant "tt" — userId: 697c04139deffb527b6e9f8a
+[2026-02-17 11:02:01] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 697c335a8b6f07d313c38fb0
+[2026-02-17 11:02:01] [WARN]: [SKIP] Missing user data for plant "Tomato" — userId: 697c62ebec310dcf34ab42e1
+[2026-02-17 11:02:01] [WARN]: [SKIP] Missing user data for plant "tomoto" — userId: 69898dded112f1e53b5bd543
+[2026-02-17 11:02:01] [WARN]: [SKIP] Missing user data for plant "Tomoto" — userId: 6989e449c469b35acef14823
+[2026-02-17 11:02:35] [ERROR]: Error fetching weather for
+[2026-02-17 11:04:09] [ERROR]: ❌ Failed to send email to dinnynavis@gmail.com: queryA ETIMEOUT smtp.gmail.com
+[2026-02-17 11:04:09] [INFO]: [DIAGNOSIS EMAIL] Sent to dinnynavis@gmail.com
+[2026-02-17 11:04:40] [INFO]: ✅ Quotation request submitted by dinnynavis@gmail.com for Growlify – Smart Irrigation System (Auto Water)
+[2026-02-17 11:05:34] [ERROR]: ❌ Failed to send email to sakthijawahar2005@gmail.com: queryA ETIMEOUT smtp.gmail.com
+[2026-02-17 11:05:34] [INFO]: [EMAIL SENT] to sakthijawahar2005@gmail.com for Tomoto
+[2026-02-17 11:05:55] [ERROR]: Error fetching weather for
+[2026-02-17 11:07:13] [ERROR]: ❌ Failed to send email to dinnynavis@gmail.com: read ECONNRESET
+[2026-02-17 11:07:13] [INFO]: [EMAIL SENT] to dinnynavis@gmail.com for gtomoto
+[2026-02-17 11:07:52] [ERROR]: ❌ Failed to submit quotation: connect ETIMEDOUT 192.178.211.108:465
+[2026-02-17 11:11:10] [INFO]: ✅ Admin login successful
+[2026-02-17 11:12:17] [WARN]: Auth failed: No token provided.
+[2026-02-17 11:12:17] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-17 11:12:17] [WARN]: Auth failed: No token provided.
+[2026-02-17 11:12:17] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-17 11:12:17] [WARN]: Auth failed: No token provided.
+[2026-02-17 11:12:17] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-17 11:12:17] [WARN]: Auth failed: No token provided.
+[2026-02-17 11:12:17] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-17 11:12:17] [WARN]: Auth failed: No token provided.
+[2026-02-17 11:12:17] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-17 11:12:17] [WARN]: Auth failed: No token provided.
+[2026-02-17 11:12:17] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-17 11:12:24] [ERROR]: ❌ Failed to approve quotation: Client network socket disconnected before secure TLS connection was established
+[2026-02-17 11:13:05] [WARN]: Auth failed: No token provided.
+[2026-02-17 11:13:05] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-17 11:13:05] [WARN]: Auth failed: No token provided.
+[2026-02-17 11:13:05] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-17 11:13:05] [WARN]: Auth failed: No token provided.
+[2026-02-17 11:13:05] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-17 11:13:05] [WARN]: Auth failed: No token provided.
+[2026-02-17 11:13:05] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-17 11:13:05] [WARN]: Auth failed: No token provided.
+[2026-02-17 11:13:05] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-17 11:13:05] [WARN]: Auth failed: No token provided.
+[2026-02-17 11:13:05] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-17 11:13:35] [WARN]: Auth failed: No token provided.
+[2026-02-17 11:13:35] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-17 11:14:05] [WARN]: Auth failed: No token provided.
+[2026-02-17 11:14:05] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-17 11:14:35] [WARN]: Auth failed: No token provided.
+[2026-02-17 11:14:35] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-17 11:15:05] [WARN]: Auth failed: No token provided.
+[2026-02-17 11:15:05] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-17 11:15:35] [WARN]: Auth failed: No token provided.
+[2026-02-17 11:15:35] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-17 11:16:05] [WARN]: Auth failed: No token provided.
+[2026-02-17 11:16:05] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-17 11:16:35] [WARN]: Auth failed: No token provided.
+[2026-02-17 11:16:35] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-17 11:17:05] [WARN]: Auth failed: No token provided.
+[2026-02-17 11:17:05] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-17 11:17:35] [WARN]: Auth failed: No token provided.
+[2026-02-17 11:17:35] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-17 11:18:07] [WARN]: Auth failed: No token provided.
+[2026-02-17 11:18:07] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-17 11:19:04] [WARN]: Auth failed: No token provided.
+[2026-02-17 11:19:04] [ERROR]: ❌ Error: Not authorized, no token
+[2026-02-23 15:11:36] [INFO]: 📧 Email transporter initialized with user: gro...
+[2026-02-23 15:11:37] [INFO]: ✅ MongoDB connected successfully
+[2026-02-23 15:11:37] [INFO]: 🌿 Growlify backend running on http://localhost:5002
+[2026-02-23 15:11:37] [INFO]: MongoDB connected successfully
+[2026-02-23 15:20:08] [INFO]: ✅ Email sent successfully to mohamedrafiqs@psnacet.edu.in
+[2026-02-23 15:20:08] [INFO]: [OTP] Sent signup OTP to mohamedrafiqs@psnacet.edu.in
+[2026-02-23 15:20:37] [INFO]: [SIGNUP] New user registered: mohamedrafiqs@psnacet.edu.in
+[2026-02-23 15:20:43] [INFO]: [LOGIN] User logged in: mohamedrafiqs@psnacet.edu.in
+[2026-02-23 15:20:46] [INFO]: [GET PLANTS] Retrieved 0 plants for user 699c22ed85fbfb5e813c40a0
+[2026-02-23 15:20:46] [INFO]: [GET PLANTS] Retrieved 0 plants for user 699c22ed85fbfb5e813c40a0
+[2026-02-23 15:21:43] [INFO]: [ADD PLANT] New plant added for user 699c22ed85fbfb5e813c40a0: 699c232f85fbfb5e813c40a8
+[2026-02-23 15:21:43] [INFO]: [GET PLANTS] Retrieved 1 plants for user 699c22ed85fbfb5e813c40a0
+[2026-02-23 15:22:55] [INFO]: 📧 Email transporter initialized with user: gro...
+[2026-02-23 15:22:56] [INFO]: ✅ MongoDB connected successfully
+[2026-02-23 15:22:56] [INFO]: 🌿 Growlify backend running on http://localhost:5002
+[2026-02-23 15:22:56] [INFO]: MongoDB connected successfully
+[2026-02-23 15:23:59] [INFO]: ✅ Email sent successfully to mohamedrafiqs@psnacet.edu.in
+[2026-02-23 15:23:59] [INFO]: [DIAGNOSIS EMAIL] Sent to mohamedrafiqs@psnacet.edu.in
+[2026-02-23 15:24:06] [INFO]: 📧 Email transporter initialized with user: gro...
+[2026-02-23 15:24:06] [INFO]: ✅ MongoDB connected successfully
+[2026-02-23 15:24:06] [INFO]: 🌿 Growlify backend running on http://localhost:5002
+[2026-02-23 15:24:06] [INFO]: MongoDB connected successfully
+[2026-02-23 15:25:34] [INFO]: Reward redemption request: Starter Succulent Seeds for mohamedrafiqs@psnacet.edu.in (300 points)
+[2026-02-23 15:25:45] [INFO]: ✅ Email sent successfully to mohamedrafiqs@psnacet.edu.in
+[2026-02-23 15:25:45] [INFO]: ✅ Reward redemption email sent to mohamedrafiqs@psnacet.edu.in
+[2026-02-23 15:26:42] [INFO]: ✅ Quotation request submitted by mohamedrafiqs@psnacet.edu.in for Growlify – Smart Irrigation System (Auto Water)
+[2026-02-23 15:28:46] [INFO]: ✅ Admin login successful
+[2026-02-23 15:29:39] [INFO]: ✅ Quotation approved and PDF sent to mohamedrafiqs@psnacet.edu.in
